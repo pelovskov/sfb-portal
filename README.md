@@ -4,8 +4,9 @@ Velkommen til GitHub-repositoriet for Syd for Banen-portalens digitale ressource
 Dette repository bruges til dokumentation af teknik, arbejdsgange og data, så portalen kan drives og videreudvikles sikkert.
 
 ## 📌 Hurtige genveje
-- **Offentlig portal:** [sfbbilleder.eu/port](http://sfbbilleder.eu/port) (eller jeres primære domæne)
+- **Offentlig portal:** [sfbbilleder.eu/port](http://sfbbilleder.eu/port)
 - **WordPress Admin:** `/wp-admin`
+- **Roskildebilleder:** [sfbbilleder.eu(http://sfbbilleder.eu) - Piwigo webgalleri
 - **[Syd for Banen Wiki](../../wiki):** Vores primære opslagsværk med arbejdsgange, indholdskategorier og historiske datastandarder.
 
 ## 🗂 Hvad finder du her?
