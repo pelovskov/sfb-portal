@@ -8,7 +8,7 @@ Dette repository bruges til dokumentation af teknik, arbejdsgange og data, så p
 - **WordPress Admin:** `/wp-admin`
 - **Roskildebilleder:** [sfbbilleder.eu](http://sfbbilleder.eu) - Piwigo webgalleri
 - **[Syd for Banen Wiki](../../wiki):** Vores primære opslagsværk med arbejdsgange, indholdskategorier og historiske datastandarder.
-- - **Lokalhistorisk ressourcekit:** [Ressourcekit]([http://sfbbilleder.eu](https://pelovskov.github.io/s-apps/apps/dashboard-lokal-bs.html)) - Hjælpeværktøjer
+- **Lokalhistorisk ressourcekit:** [[Ressourcekit](https://pelovskov.github.io/s-apps/apps/dashboard-lokal-bs.html)]([http://sfbbilleder.eu](https://pelovskov.github.io/s-apps/apps/dashboard-lokal-bs.html) - Hjælpeværktøjer
 
 ## 🗂 Hvad finder du her?
 - **[Custom Tools](custom-tools.md):** Kildekode til specialudviklede visninger, kort eller plugins.
