@@ -9,7 +9,7 @@ Dette repository bruges til dokumentation af teknik, arbejdsgange og data, så p
 - **[Syd for Banen Wiki](../../wiki):** Vores primære opslagsværk med arbejdsgange, indholdskategorier og historiske datastandarder.
 
 ## 🗂 Hvad finder du her?
-- `/custom-tools/`: Kildekode til specialudviklede visninger, kort eller plugins.
+- **[Custom Tools](custom-tools.md):** Kildekode til specialudviklede visninger, kort eller plugins.
 - `/data-templates/`: Skabeloner til registrering af adresser, erhverv, perioder og tag-strukturer.
 - `/docs/`: Manualer for billedbehandling, lydredigering/podcasts og PDF/Flipbook-udgivelse.
 
